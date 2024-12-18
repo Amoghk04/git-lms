@@ -40,7 +40,6 @@ A simple library management system written in Python, designed to manage books, 
     "quantity": 3
   }
 ]
-
 ## Example of `users.json`:
 ```json
 [
