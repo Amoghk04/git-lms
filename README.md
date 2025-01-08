@@ -1,5 +1,8 @@
 # Library Management System
 
+<img src="https://imgs.search.brave.com/hLBRYtCkXbsnLZldafc9bYBIH3ygVVlEC0Mh-U2kWkk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9saWJyYXJ5XzI1/ODIxOS0zNS5qcGc_/c2VtdD1haXNfaHli/cmlk?" alt="Library Management System" />
+
+
 A simple library management system written in Python, designed to manage books, users, and their borrowing activities. It includes functionalities to add, remove, and search for books, as well as manage user registrations, borrowing, and returning of books. The system stores data in JSON files for books and users.
 
 ## Features
