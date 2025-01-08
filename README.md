@@ -39,4 +39,4 @@ This class manages the collection of books and users. It supports functionalitie
 ---
 
 ## Usage
-- Clone the repo and run main.py
+- Clone the repo and run trial.py
